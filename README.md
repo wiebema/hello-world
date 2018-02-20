@@ -1,2 +1,5 @@
 # hello-world
-a short description
+
+Hi Human,
+
+Hubot here, I like Node.js and Coffeescript.
